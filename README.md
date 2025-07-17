@@ -5,7 +5,7 @@ A sleek, dynamic, and fully responsive portfolio showcasing my journey as a deve
 ---
 
 ## 🌟 Live Demo
-[Explore My Portfolio]()
+[Explore My Portfolio](https://omkardevportfolio.vercel.app/)
 
 ---
 
@@ -65,7 +65,7 @@ A sleek, dynamic, and fully responsive portfolio showcasing my journey as a deve
 - **Email**: omkarad18@gmail.com
 - **LinkedIn**: [linkedin.com/in/omkar-gaikwad](https://www.linkedin.com/in/omkar-gaikwad-236455293/)
 - **GitHub**: [github.com/OmkarGaikwad](https://github.com/webdevomkar)
-- **Portfolio**: [omkar-gaikwad-portfolio.vercel.app]()
+- **Portfolio**: [omkar-gaikwad-portfolio.vercel.app](https://omkardevportfolio.vercel.app/)
 
 ---
 
