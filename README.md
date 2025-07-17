@@ -1,70 +1,73 @@
-# Rajeev Verma – Portfolio
+# Omkar Gaikwad – Portfolio
 
-A modern, interactive, and responsive developer portfolio built with React, Vite, and Tailwind CSS. Showcasing my projects, skills, experience, and contact information for job opportunities and freelance work.
-
----
-
-## 🚀 Live Demo
-[View Portfolio Live](https://my-portfolio-git-main-rv1175544-gmailcoms-projects.vercel.app/)
+A sleek, dynamic, and fully responsive portfolio showcasing my journey as a developer. Crafted with modern web technologies, this portfolio highlights my projects, skills, and experience with a touch of creativity and interactivity. Built to impress and optimized for seamless user experience.
 
 ---
 
-## ✨ Features
-- Beautiful, animated hero section with 3D model
-- About, Projects, Skills, Resume, and Contact sections
-- Responsive design for all devices
-- Smooth navigation and scroll
-- Downloadable resume
-- Contact form powered by Formspree (messages go directly to my email)
-- Modern UI/UX with Tailwind CSS and Framer Motion
-- SEO and social sharing optimized
+## 🌟 Live Demo
+[Explore My Portfolio]()
 
 ---
 
-## 🛠️ Tech Stack
-- **Frontend:** React, Vite, Tailwind CSS, Framer Motion
-- **3D Graphics:** Three.js, @react-three/fiber, @react-three/drei
-- **Icons:** react-icons
-- **Forms:** Formspree
+## 🎨 Highlights
+- **Interactive Hero Section**: A captivating intro with animated visuals and a 3D model powered by Three.js.
+- **Core Sections**: About Me, Projects, Skills, Experience, and Contact, designed for intuitive navigation.
+- **Responsive Design**: Pixel-perfect across desktops, tablets, and mobiles.
+- **Smooth Animations**: Subtle transitions and hover effects using Framer Motion for a polished feel.
+- **Downloadable Resume**: One-click access to my professional CV.
+- **Contact Integration**: Fully functional contact form powered by Formspree, delivering messages straight to my inbox.
+- **SEO Optimized**: Built for discoverability with meta tags and social sharing capabilities.
+- **Dark/Light Mode**: Toggleable theme for personalized viewing.
 
 ---
 
-## 🖥️ Local Setup
+## 💻 Tech Stack
+- **Frontend**: React, Vite, Tailwind CSS
+- **Animations**: Framer Motion
+- **3D Graphics**: Three.js, @react-three/fiber, @react-three/drei
+- **Icons**: React Icons
+- **Form Handling**: Formspree
+- **Deployment**: Vercel
 
-1. **Clone the repository:**
+---
+
+## ⚙️ Setup Instructions
+
+1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Rajeevgithu/My-Portfolio.git
-   cd My-Portfolio
+   git clone https://github.com/webdevomkar/MyPortfolio.git
+   cd myportfolio
    ```
-2. **Install dependencies:**
+2. **Install Dependencies**:
    ```bash
    npm install
    ```
-3. **Run the development server:**
+3. **Run Locally**:
    ```bash
    npm run dev
    ```
-4. **Build for production:**
+4. **Build for Production**:
    ```bash
    npm run build
    ```
 
 ---
 
-## 📂 Project Structure
-- `src/components/` – Reusable UI components (Navbar, Footer, ProjectCard, etc.)
-- `src/sections/` – Main page sections (Hero, About, Projects, Skills, Resume, Contact)
-- `src/assets/` – Images and static assets
-- `public/` – Public files (3D models, resume, etc.)
+## 📁 Project Structure
+- `src/components/` – Modular UI elements (Navbar, Footer, SkillCard, etc.)
+- `src/sections/` – Core sections (Hero, About, Projects, Skills, Contact)
+- `src/assets/` – Static assets (images, icons, resume PDF)
+- `public/` – Publicly accessible files (3D models, favicon, etc.)
 
 ---
 
-## 📧 Contact
-- **Email:** rv1175544@gmail.com
-- **LinkedIn:** [linkedin.com/in/rajeev-verma7276](https://www.linkedin.com/in/rajeev-verma7276/)
-- **GitHub:** [github.com/Rajeevgithu](https://github.com/Rajeevgithu)
+## 📬 Get in Touch
+- **Email**: omkarad18@gmail.com
+- **LinkedIn**: [linkedin.com/in/omkar-gaikwad](https://www.linkedin.com/in/omkar-gaikwad-236455293/)
+- **GitHub**: [github.com/OmkarGaikwad](https://github.com/webdevomkar)
+- **Portfolio**: [omkar-gaikwad-portfolio.vercel.app]()
 
 ---
 
-## 📝 License
-This project is open source and available under the [MIT License](LICENSE).
+## 📜 License
+This project is licensed under the [MIT License](LICENSE) – feel free to use and adapt!
